@@ -1,5 +1,4 @@
 module.exports = {
-  "transpileDependencies": [
-    "vuetify"
-  ]
+  publicPath: '/github-issues-vue/',
+  outputDir: 'docs'
 };
